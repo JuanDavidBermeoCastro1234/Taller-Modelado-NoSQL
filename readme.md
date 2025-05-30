@@ -32,15 +32,6 @@ MongoDB es una base de datos NoSQL de tipo documental. Almacena la información 
 
 ---
 
-> Ejemplo de documento en MongoDB:
-```json
-{
-  "nombre": "Pizza Hawaiana",
-  "ingredientes": ["jamón", "piña", "queso"],
-  "precio": 28000,
-  "tamanio": "mediana"
-}
-
 ## Vista de pedido
 ![Modelo ER](imagen/modelo.png)
 
@@ -58,3 +49,12 @@ Nos gustó la flexibilidad para crear documentos que pueden tener estructuras di
 
 Tuvimos dudas sobre cómo controlar la integridad de los datos sin claves foráneas, cómo manejar actualizaciones si los datos están embebidos, y qué tan eficiente es este modelo cuando hay gran volumen de datos o muchas relaciones entre entidades. También nos preguntamos cómo manejar el autoincremento de identificadores sin SQL ya que mongo no posee el autoincremento de id.
 
+
+> Ejemplo de documento en MongoDB:
+```json
+{
+  "nombre": "Pizza Hawaiana",
+  "ingredientes": ["jamón", "piña", "queso"],
+  "precio": 28000,
+  "tamanio": "mediana"
+}
