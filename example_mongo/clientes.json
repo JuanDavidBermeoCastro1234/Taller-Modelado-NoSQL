@@ -1,0 +1,15 @@
+[{
+    "_id":"cli_01",
+    "pizzeria_id":"01",
+    "nombre_cliente":"Juancho",
+    "direccion":"calle1n #g5",
+    "telefono":"312546874"
+},
+
+{
+    "_id":"cli_02",
+    "pizzeria_id":"02",
+    "nombre_cliente":"Andres",
+    "direccion":"calle1n #9w",
+    "telefono":"312545687"
+}]

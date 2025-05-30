@@ -1,0 +1,28 @@
+[{
+    "_id":"ped_01",
+    "clientes_01":"cli_01",
+    "combos_id":null,
+    "adicionales_id":["adi_01","adi_02"],
+    "productos_id":"pro_01",
+    "modo_entrega":"tienda",
+    "pago":"efectivo"
+},
+{
+    "_id":"ped_02",
+    "clientes_01":"cli_02",
+    "combos_id":"com_02",
+    "adicionales_id":"adi_02",
+    "productos_id":"pro_02",
+    "modo_entrega":"llevar",
+    "pago":"targeta"
+},
+{
+    "_id":"ped_03",
+    "clientes_01":"cli_02",
+    "combos_id":["com_02","com_01"],
+    "adicionales_id":"adi_01",
+    "productos_id":null,
+    "modo_entrega":"llevar",
+    "pago":"targeta" 
+}
+]

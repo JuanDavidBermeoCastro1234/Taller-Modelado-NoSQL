@@ -1,0 +1,9 @@
+[{
+    "_id":"ingre_01",
+    "ingredientes":[
+        {"nombre":"sal","precio":"1.000"},
+        {"nombre":"agua","precio":"1.000"},
+        {"nombre":"aceite","precio":"2.000"}
+    ]
+    
+}]

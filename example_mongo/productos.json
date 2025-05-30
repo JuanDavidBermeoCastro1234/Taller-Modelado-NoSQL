@@ -1,0 +1,15 @@
+[{
+    "_id":"pro_01",
+    "productos":"pizza",
+    "precio":"10.000",
+    "ingredientes_id":"ingre_01",
+    "producto_elaborado":"si"
+},
+{
+    "_id":"pro_02",
+    "productos":["postre de leche","gaseosa"],
+    "precio":"10.000",
+    "ingredientes_id": null, 
+    "producto_elaborado":"no"
+}
+]

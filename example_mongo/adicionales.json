@@ -1,0 +1,14 @@
+[{
+    "_id":"adi_01",
+    "nombre":"queso",
+    "precio":"5.000",
+    "cantidad":"50g"
+
+},
+{
+    "_id":"adi_02",
+    "nombre":"salsa",
+    "precio":"3.000",
+    "cantidad":"100g"
+}
+]
